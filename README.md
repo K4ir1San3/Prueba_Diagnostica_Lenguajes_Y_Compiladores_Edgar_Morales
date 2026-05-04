@@ -1,7 +1,7 @@
 # Prueba Diagnóstica // Lenguajes y Compiladores
-**Estudiante:** Edgar Morales
-**Institución:** Universidad Nacional Experimental de Guayana (UNEG)
-**Profesor:**  Félix Márquez  
+*   **Estudiante:** Edgar Morales
+*   **Institución:** Universidad Nacional Experimental de Guayana (UNEG)
+*   **Profesor:**  Félix Márquez  
 
 ---
 
@@ -10,10 +10,10 @@ Este repositorio contiene la solución a los tres planteamientos de la prueba di
 
 ## Estructura del Repositorio
 El repositorio está organizado en las siguientes carpetas:
-*   **/Problema1**: Analizador léxico de expresiones aritméticas.
-*   **/Problema2**: Validador de Notación FEN para posiciones de ajedrez.
-*   **/Problema3**: Verificador de la Conjetura de Collatz en intervalos cerrados.
-*   **/Defensa**: Contiene el acceso directo a la explicación audiovisual de la prueba.
+*   **Problema1**: Analizador léxico de expresiones aritméticas.
+*   **Problema2**: Validador de Notación FEN para posiciones de ajedrez.
+*   **Problema3**: Verificador de la Conjetura de Collatz en intervalos cerrados.
+*   **Defensa**: Contiene el acceso directo a la explicación audiovisual de la prueba.
 
 ## Requisitos e Instalación
 Para ejecutar estos componentes, se requiere tener instalado **Python 3.x**. No se requieren librerías externas adicionales ya que se utiliza la biblioteca estándar `re` para expresiones regulares.
