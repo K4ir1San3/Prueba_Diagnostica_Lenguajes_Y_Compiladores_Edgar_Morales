@@ -16,10 +16,10 @@ El repositorio está organizado en las siguientes carpetas:
 *   **Defensa**: Contiene el acceso directo a la explicación audiovisual de la prueba.
 
 ## Requisitos e Instalación
-Para ejecutar estos componentes, se requiere tener instalado **Python 3.x**. No se requieren librerías externas adicionales ya que se utiliza la biblioteca estándar `re` para expresiones regulares.
+Para ejecutar estos componentes, se requiere tener instalado cualquier versión de **Python 3** en adelante. No se requieren librerías externas adicionales ya que se utiliza la biblioteca estándar `re` para expresiones regulares.
 
 ### Instrucciones de ejecución:
-1. Clonar el repositorio: `git clone [URL_DE_TU_REPOSITOIRO]`
+1. Clonar el repositorio: `git clone https://github.com/K4ir1San3/Prueba_Diagnostica_Lenguajes_Y_Compiladores_Edgar_Morales.git`
 2. Entrar a la carpeta del problema deseado.
 3. Ejecutar el script con: `python nombre_del_archivo.py` (puede ser tanto "Problema1" como "Problema2" y "Problema3")
 
