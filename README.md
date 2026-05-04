@@ -24,4 +24,4 @@ Para ejecutar estos componentes, se requiere tener instalado cualquier versión 
 3. Ejecutar el script con: `python nombre_del_archivo.py` (puede ser tanto "Problema1" como "Problema2" y "Problema3")
 
 ## Defensa del Proyecto
-La explicación detallada del código, los fundamentos técnicos y la demostración práctica se encuentran en el enlace dentro del archivo de la carpeta "defensa".
+La explicación detallada del código, los fundamentos técnicos y la demostración práctica se encuentran en el enlace dentro del archivo de la carpeta "Defensa".
